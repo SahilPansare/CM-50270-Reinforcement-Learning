@@ -1,5 +1,5 @@
-# CM-50270-Reinforcement-Learning
-Code and relevant files for the final project of CM50270 (Reinforcement Learning) for MSc. in Data Science at University of Bath. 
+# Reinforcement-Learning Project
+Code and relevant files for RL Project
 
 This is an implementation of DQN, DDQN, DDPG and TD3 on Lunar Lander environment from OpenAI Gym.
 
